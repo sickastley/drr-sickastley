@@ -1,0 +1,9 @@
+{
+	"mods": ["rakshak", "manager"],
+
+	"names": ["Parth", "Aryan", "Krishna", "Anand", "Bhairav",
+		"Kaushik", "Kedar", "Lalit", "Kishan", "Mangal", "Mohan", "Shankar", "Swastik",
+		"Gagan", "Prakrit", "Sagar"],
+
+	"titles": ["Kumar", "Singh", "Pathak", "Pandey", "Tiwari", "Rastogi", "Tripathi"]
+}
